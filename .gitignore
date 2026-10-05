@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+
+# Large original model - DO NOT upload
+final_energy_prediction_model.pkl
+
+# Large raw dataset/archive
+data/raw/
+*.zip
+
+# Streamlit
+.streamlit/secrets.toml
