@@ -1,5 +1,8 @@
 # ⚡ Household Energy Predictor
 
+## 🚀 Live Demo
+🔗 [Try the Household Energy Predictor](https://householdenergypredictor-nksjvxvxrnprfnnayv4skd.streamlit.app/)
+
 A machine learning application that predicts Global Active Power consumption (kW) from household electricity measurements and time-based features, powered by a compact XGBoost regression model and an interactive Streamlit dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
